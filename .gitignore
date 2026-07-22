@@ -100,3 +100,8 @@ data/
 logs/
 reports/
 longbridge_tokens/
+.env
+data/
+logs/
+reports/
+longbridge_tokens/
