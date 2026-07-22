@@ -95,3 +95,8 @@ reports/
 longbridge_tokens/
 __pycache__/
 *.pyc
+.env
+data/
+logs/
+reports/
+longbridge_tokens/
